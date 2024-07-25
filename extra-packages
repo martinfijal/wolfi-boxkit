@@ -7,11 +7,16 @@ dbus-x11
 direnv
 eza
 fzf
+gcc
+glibc
+glibc-dev
+go
 just
 jq
 make
 ncurses
 neovim
+nodejs
 npm
 python3
 ripgrep
