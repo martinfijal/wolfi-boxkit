@@ -2,7 +2,8 @@ FROM ghcr.io/ublue-os/wolfi-toolbox
 
 LABEL com.github.containers.toolbox="true" \
       usage="This image is meant to be used with the toolbox or distrobox command" \
-      summary="A cloud-native terminal experience"
+      summary="A cloud-native terminal experience" \
+      maintainer="me"
 
 COPY extra-packages /
 RUN apk update && \
