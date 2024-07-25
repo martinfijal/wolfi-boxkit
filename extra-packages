@@ -2,7 +2,6 @@ age
 btop
 bat
 chezmoi
-clipboard
 cosign
 dbus-x11
 direnv
@@ -11,15 +10,12 @@ fzf
 just
 jq
 make
-ncdu
 ncurses
 neovim
 npm
-plocate
 python3
 ripgrep
 starship
-vimdiff
 wl-clipboard
 zellij
 zstd
